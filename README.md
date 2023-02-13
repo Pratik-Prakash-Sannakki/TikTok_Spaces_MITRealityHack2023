@@ -3,6 +3,8 @@
 
 ## Primary Track - TikTok Effect house - Made 8+ AR filters using EffectHouse
 
+### Devpost link - https://devpost.com/software/p-r-a-n-s
+
 ### Inspiration
 As everything shifts towards the AR and VR space, we wanted to contribute by (a) creating a TikTok film with the potential for future collaboration/additions and (b) creating a space and mechanism for people to come together, be inclusive, and have a platform for AR storytelling. Effect House by TikTok was used to develop all the filters/effects for our TikTok film, and Unity was used to create the AR exhibition app.
 
